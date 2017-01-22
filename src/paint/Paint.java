@@ -8,7 +8,6 @@ public class Paint {
 			}
 		});
 	}
-
 	PaintModel model; // Model
 	View view; // View + Controller
 	
